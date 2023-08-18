@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Pop-Bold";
+  src: url("./poppins/Poppins-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: "Pop-Reg";
+  src: url("./poppins/Poppins-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pop-Ital";
+  src: url("./poppins/Poppins-Regular.ttf") format("truetype");
+  font-weight: italic;
+  font-style: italic;
+}
