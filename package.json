@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "note_taking_app",
+=======
+  "name": "note-taking-app",
+>>>>>>> origin/main
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +13,10 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+<<<<<<< HEAD
     "tailwindcss": "^3.3.5",
+=======
+>>>>>>> origin/main
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -35,5 +42,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+>>>>>>> origin/main
   }
 }
